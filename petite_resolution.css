@@ -1,5 +1,6 @@
 *{
     background-color: black;
+
 }
 
 @font-face {
@@ -13,18 +14,18 @@
 
 section
 {
-    margin-bottom: -20px;
+    /*margin-bottom: -20px;*/
 }
 
 .E404
 {
     color: white;
     font-family: "Oleo",'Courier New', Courier, monospace;
-    font-size: 180px;
-    margin-left: 80px;
+    font-size: 40px;
+    /*margin-left: 80px;*/
     margin-bottom: 0px;
     text-align: center;
-    margin-top: 60px;
+    /*margin-top: 60px;*/
 }
 
 img
@@ -32,8 +33,7 @@ img
     display: block;
     position: relative;
     margin: auto;
-    padding-right: 150px;
-    margin-top: -60 px;
+    /*margin-top: -60 px;*/
     
 }
 
@@ -41,14 +41,14 @@ button
 {
     position: relative;
     margin: auto;
-    margin-top: 45px;
+    /*margin-top: 45px;*/
     border-radius: 50%;
-    width: 600px;
+    width: 200px;
     border: none;
     display: block;
     color: white;
     font-family: "Open","Oleo",'Courier New', Courier, monospace;
-    font-size: 80px;
+    font-size: 40px;
     animation-duration: 2s;
     animation-name: bouton;
     animation-iteration-count: infinite;
@@ -93,7 +93,7 @@ footer
     bottom:0px;
     margin-left: 15px;
     width: 100%;
-    height: 20px;
+    height: 15px;
     color: white;
 }
 
